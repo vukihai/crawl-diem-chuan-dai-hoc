@@ -18,8 +18,8 @@ class Crawler:
             self.driver.get(url + "?y=" + str(year))
             try:
                 try:
+                    view_more_btn = self.driver.find_element_by_id('diemchuan_viewmore')
                     while True:
-                        view_more_btn = self.driver.find_element_by_id('diemchuan_viewmore')
                         view_more_btn.click()
                         print('load more')
                         sleep(3)
@@ -53,7 +53,8 @@ class Crawler:
                 data = [ma_nganh,ten_nganh,to_hop,diem_chuan]
                 dataframe = pd.DataFrame(data).T
                 file_name = uniCode + "_" + str(year) +".csv"
-                dataframe.to_csv(file_name, sep=',', encoding='utf-8')
+                if(len(ma_nganh)!= 0):
+                    dataframe.to_csv(file_name, sep=',', encoding='utf-8')
             except:
                 print("no data for this year")
             
