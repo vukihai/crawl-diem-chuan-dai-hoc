@@ -1,0 +1,40 @@
+,0,1,2,3
+0,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,"Tổ hợp môn: D01, D02, D03, D04, D05, D06",NV1: 14.00
+1,Mã ngành: 7220204,Tên ngành: Ngôn ngữ Trung Quốc,"Tổ hợp môn: D01, D02, D03, D04, D05, D06",NV1: 14.00
+2,Mã ngành: 7220209,Tên ngành: Ngôn ngữ Nhật,"Tổ hợp môn: D01, D02, D03, D04, D05, D06",NV1: 13.10
+3,Mã ngành: 7310630,Tên ngành: Việt Nam học,"Tổ hợp môn: A00, A01, C00, D01, D02 D03, D04, D04, D06, D26 D27, D28, D29, D30",NV1: 14.00
+4,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,"Tổ hợp môn: A00, A01, D01, D02 D03, D04, D04, D06, D26 D27, D28, D29, D30",NV1: 14.00
+5,Mã ngành: 7340101LT,Tên ngành: Quản trị kinh doanh,"Tổ hợp môn: A00, A01, D01, D02 D03, D04, D04, D06, D26 D27, D28, D29, D30",NV1: 14.00
+6,Mã ngành: 7340201,Tên ngành: Tài chính ngân hàng,"Tổ hợp môn: A00, A01, D01, D02 D03, D04, D04, D06, D26 D27, D28, D29, D30",NV1: 14.00
+7,Mã ngành: 7340301,Tên ngành: Kế toán,"Tổ hợp môn: A00, A01, D01, D02 D03, D04, D04, D06, D26 D27, D28, D29, D30",NV1: 14.00
+8,Mã ngành: 7340301LT,Tên ngành: Kế toán,"Tổ hợp môn: A00, A01, D01, D02 D03, D04, D04, D06, D26 D27, D28, D29, D30",NV1: 14.00
+9,Mã ngành: 7340406,Tên ngành: Quản trị văn phòng,"Tổ hợp môn: A00, A01, C00, D01, D02 D03, D04, D04, D06, D26 D27, D28, D29, D30",NV1: 13.01
+10,Mã ngành: 7340406LT,Tên ngành: Quản trị văn phòng,"Tổ hợp môn: A00, A01, C00, D01, D02 D03, D04, D04, D06, D26 D27, D28, D29, D30",NV1: 13.01
+11,Mã ngành: 7420201,Tên ngành: Công nghệ sinh học,"Tổ hợp môn: A00, B00, D07, D08, D21 D22, D23, D24, D25, D31 D32, D33, D34, D35",NV1: 13.01
+12,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,"Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 13.01
+13,Mã ngành: 7480201LT,Tên ngành: Công nghệ thông tin,"Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 14.00
+14,Mã ngành: 7510203,Tên ngành: Công nghệ kỹ thuật cơ điện tử,"Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 13.01
+15,Mã ngành: 7510203LT,Tên ngành: Công nghệ kỹ thuật cơ điện tử,"Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 13.01
+16,Mã ngành: 7510301,"Tên ngành: Công nghệ kỹ thuật điện, điện tử","Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 13.01
+17,Mã ngành: 7510301LT,"Tên ngành: Công nghệ kỹ thuật điện, điện tử","Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 13.01
+18,Mã ngành: 7510302,Tên ngành: Công nghệ kỹ thuât điện tử - viễn thông,"Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 14.00
+19,Mã ngành: 7510406,Tên ngành: Công nghệ kỹ thuật môi trường,"Tổ hợp môn: A00, B00, D07, D08, D21 D22, D23, D24, D25, D31 D32, D33, D34, D35",NV1: 14.00
+20,Mã ngành: 7580101,Tên ngành: Kiến trúc,"Tổ hợp môn: V00, V01, V02, V05, V07 V08, V09, V10, V11",NV1: 17.10
+21,Mã ngành: 7580201,Tên ngành: Kỹ thuật xây dựng,"Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 13.01
+22,Mã ngành: 7580201LT,Tên ngành: Kỹ thuật xây dựng,"Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 14.00
+23,Mã ngành: 7580205,Tên ngành: Kỹ thuật xây dựng công trình giao thông,"Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 13.10
+24,Mã ngành: 7580205LT,Tên ngành: Kỹ thuật xây dựng công trình giao thông,"Tổ hợp môn: A00, A01, C01, D01, D02 D03, D04, D04, D06, D25 D27, D28, D29, D30",NV1: 13.10
+25,Mã ngành: 7580301,Tên ngành: Kinh tế xây dựng,"Tổ hợp môn: A00, A01, D01, D02, D03, D04 D05, D06, D10, D16, D17, D18 D19, D20, D26, D27, D28, D29, D30",NV1: 14.00
+26,Mã ngành: 7810103,Tên ngành: Quản trị dịch vụ du lịch và lữ hành,"Tổ hợp môn: A00, A01, C00, D01, D02 D03, D04, D04, D06, D26 D27, D28, D29, D30",NV1: 14.00
+27,,,,
+28,,,,
+29,,,,
+30,,,,
+31,,,,
+32,,,,
+33,,,,
+34,,,,
+35,,,,
+36,,,,
+37,,,,
+38,,,,

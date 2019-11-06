@@ -1,0 +1,77 @@
+,0,1,2,3
+0,Mã ngành: 7140114,Tên ngành: Quản lý giáo dục,"Tổ hợp môn: A00, C00, D01",NV1: 18.50
+1,Mã ngành: 7140114,Tên ngành: Quản lý giáo dục,"Tổ hợp môn: A00, D01, C00",NV1: 26.90
+2,Mã ngành: 7140201,Tên ngành: Giáo dục Mầm non,Tổ hợp môn: M00,NV1: 20.50
+3,Mã ngành: 7140201,Tên ngành: Giáo dục Mầm non,Tổ hợp môn: M00,NV1: 24.40
+4,Mã ngành: 7140202,Tên ngành: Giáo dục Tiểu học,"Tổ hợp môn: A00, A0 1, D01",NV1: 19.75
+5,Mã ngành: 7140202,Tên ngành: Giáo dục Tiểu học,"Tổ hợp môn: A00, A01, D01",NV1: 27.70
+6,Mã ngành: 7140203,Tên ngành: Giáo dục Đặc biệt,"Tổ hợp môn: C00, D01",NV1: 17.75
+7,Mã ngành: 7140203,Tên ngành: Giáo dục Đặc biệt,"Tổ hợp môn: D01, C00",NV1: 25.50
+8,Mã ngành: 7140205,Tên ngành: Giáo dục Chính trị,"Tổ hợp môn: D01, C00, C19",NV1: 25.85
+9,Mã ngành: 7140205,Tên ngành: Giáo dục Chính trị,"Tổ hợp môn: C00,C19, D01",NV1: 19.75
+10,Mã ngành: 7140206,Tên ngành: Giáo dục Thể chất,"Tổ hợp môn: T00, T01",NV1: 24.00
+11,Mã ngành: 7140206,Tên ngành: Giáo dục Thể chất,"Tổ hợp môn: T00, T02",NV1: 18.00
+12,Mã ngành: 7140209,Tên ngành: Sư phạm Toán học,"Tổ hợp môn: A00, A01",NV1: 22.25
+13,Mã ngành: 7140209,Tên ngành: Sư phạm Toán học,"Tổ hợp môn: A00, A01",NV1: 29.15
+14,Mã ngành: 7140210,Tên ngành: Sư phạm Tin học,"Tổ hợp môn: A00, A01",NV1: 17.00
+15,Mã ngành: 7140210,Tên ngành: Sư phạm Tin học,"Tổ hợp môn: A00, A01",NV1: 17.00
+16,Mã ngành: 7140211,Tên ngành: Sư phạm Vật lý,"Tổ hợp môn: A00, A01, C01",NV1: 28.70
+17,Mã ngành: 7140211,Tên ngành: Sư phạm Vật lý,"Tổ hợp môn: A00, A01, C01",NV1: 21.00
+18,Mã ngành: 7140212,Tên ngành: Sư phạm Hoá học,"Tổ hợp môn: A00, B00, D07",NV1: 21.80
+19,Mã ngành: 7140212,Tên ngành: Sư phạm Hoá học,"Tổ hợp môn: A00, B00, D07",NV1: 29.45
+20,Mã ngành: 7140213,Tên ngành: Sư phạm Sinh học,"Tổ hợp môn: B00, D08",NV1: 20.00
+21,Mã ngành: 7140213,Tên ngành: Sư phạm Sinh học,"Tổ hợp môn: B00, D08",NV1: 29.05
+22,Mã ngành: 7140217,Tên ngành: Sư phạm Ngữ văn,"Tổ hợp môn: C00, D01, D78",NV1: 21.50
+23,Mã ngành: 7140217,Tên ngành: Sư phạm Ngữ văn,"Tổ hợp môn: D01, C00, D78",NV1: 27.75
+24,Mã ngành: 7140218,Tên ngành: SP lịch sử,"Tổ hợp môn: C00, D14",NV1: 19.75
+25,Mã ngành: 7140218,Tên ngành: SP lịch sử,"Tổ hợp môn: C00, D14",NV1: 27.10
+26,Mã ngành: 7140219,Tên ngành: SP địa lý,"Tổ hợp môn: C00, C04",NV1: 20.00
+27,Mã ngành: 7140219,Tên ngành: SP địa lý,"Tổ hợp môn: C00, C04",NV1: 27.55
+28,Mã ngành: 7140231,Tên ngành: Sư phạm Tiếng Anh,Tổ hợp môn: D01,NV1: 22.55
+29,Mã ngành: 7140231,Tên ngành: Sư phạm Tiếng Anh,Tổ hợp môn: D01,NV1: 28.20
+30,Mã ngành: 7140232,Tên ngành: Sư phạm Tiếng Nga,"Tổ hợp môn: D01, D02, D78, D80",NV1: 17.05
+31,Mã ngành: 7140232,Tên ngành: Sư phạm Tiếng Nga,"Tổ hợp môn: D02, D80, D01, D78",NV1: 24.65
+32,Mã ngành: 7140233,Tên ngành: Sư phạm Tiếng Pháp,"Tổ hợp môn: D01, D03",NV1: 18.05
+33,Mã ngành: 7140233,Tên ngành: Sư phạm Tiếng Pháp,"Tổ hợp môn: D03, D01",NV1: 25.00
+34,Mã ngành: 7140234,Tên ngành: SP Tiếng Trung quốc,"Tổ hợp môn: D01, D04",NV1: 20.25
+35,Mã ngành: 7140234,Tên ngành: SP Tiếng Trung quốc,"Tổ hợp môn: D04, D01",NV1: 26.70
+36,Mã ngành: 7220113,Tên ngành: Việt Nam học,"Tổ hợp môn: C00, D14",NV1: 26.60
+37,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,Tổ hợp môn: D01,NV1: 21.55
+38,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,Tổ hợp môn: D01,NV1: 27.75
+39,Mã ngành: 7220202,Tên ngành: Ngôn ngữ Nga – Anh,"Tổ hợp môn: D01, D02, D78, D80",NV1: 16.05
+40,Mã ngành: 7220202,Tên ngành: Ngôn ngữ Nga – Anh,"Tổ hợp môn: D02, D01, D78, D80",NV1: 20.35
+41,Mã ngành: 7220203,Tên ngành: Ngôn ngữ Pháp,"Tổ hợp môn: D03, D01",NV1: 17.75
+42,Mã ngành: 7220203,Tên ngành: Ngôn ngữ Pháp,"Tổ hợp môn: D03, D01",NV1: 25.10
+43,Mã ngành: 7220204,Tên ngành: Ngôn ngữ Trung quốc,"Tổ hợp môn: D01, D04",NV1: 20.25
+44,Mã ngành: 7220204,Tên ngành: Ngôn ngữ Trung quốc,"Tổ hợp môn: D04, D01",NV1: 26.85
+45,Mã ngành: 7220209,Tên ngành: Ngôn ngữ Nhật,"Tổ hợp môn: D01, D06",NV1: 20.75
+46,Mã ngành: 7220209,Tên ngành: Ngôn ngữ Nhật,"Tổ hợp môn: D06, D01",NV1: 27.00
+47,Mã ngành: 7220210,"Tên ngành: Ngôn ngữ Hàn Quốc (Chương trình đào tạo: Biên, phiên dịch)","Tổ hợp môn: D01, D78, D96",NV1: 21.25
+48,Mã ngành: 7220210,"Tên ngành: Ngôn ngữ Hàn Quốc (Chương trình đào tạo: Biên, phiên dịch)","Tổ hợp môn: D01, D96, D78",NV1: 27.55
+49,Mã ngành: 7220212,Tên ngành: Quốc tế học,"Tổ hợp môn: D01, D14, D78",NV1: 26.15
+50,Mã ngành: 7220330,Tên ngành: Văn học,"Tổ hợp môn: D01, C00, D78",NV1: 26.00
+51,Mã ngành: 7229030,Tên ngành: Văn học,"Tổ hợp môn: C00, D01, D78",NV1: 18.50
+52,Mã ngành: 7310401,Tên ngành: Tâm lý học,"Tổ hợp môn: B00, C00, D01",NV1: 20.75
+53,Mã ngành: 7310401,Tên ngành: Tâm lý học,"Tổ hợp môn: B00, C00, D01",NV1: 27.90
+54,Mã ngành: 7310403,Tên ngành: Tâm lý học giáo dục,"Tổ hợp môn: A00, C00, D01",NV1: 17.50
+55,Mã ngành: 7310403,Tên ngành: Tâm lý học giáo dục,"Tổ hợp môn: A00, C00, D01",NV1: 26.10
+56,Mã ngành: 7310501,Tên ngành: Địa lý học (Chương trình đào tạo: Địa lý du lịch),"Tổ hợp môn: D10, D15",NV1: 16.00
+57,Mã ngành: 7310501,Tên ngành: Địa lý học (Chương trình đào tạo: Địa lý du lịch),"Tổ hợp môn: D10, D15",NV1: 21.95
+58,Mã ngành: 7310601,Tên ngành: Quốc tế học,"Tổ hợp môn: D01, D14, D78",NV1: 18.75
+59,Mã ngành: 7310630,Tên ngành: Việt Nam học,"Tổ hợp môn: C00, D14",NV1: 20.00
+60,Mã ngành: 7440102,Tên ngành: Vật lý học,"Tổ hợp môn: A00, A0 1",NV1: 16.00
+61,Mã ngành: 7440102,Tên ngành: Vật lý học,"Tổ hợp môn: A00, A01",NV1: 24.95
+62,Mã ngành: 7440112,Tên ngành: Hóa học,"Tổ hợp môn: A00, B00, D07",NV1: 18.00
+63,Mã ngành: 7440112,Tên ngành: Hóa học,"Tổ hợp môn: A00, B00, D07",NV1: 27.40
+64,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,"Tổ hợp môn: A00, A01",NV1: 17.00
+65,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,"Tổ hợp môn: A00, A01",NV1: 26.20
+66,Mã ngành: 7760101,Tên ngành: Công tác xã hội,"Tổ hợp môn: A00, C00, D01",NV1: 17.25
+67,Mã ngành: 7760101,Tên ngành: Công tác xã hội,"Tổ hợp môn: A00, C00, D01",NV1: 23.30
+68,,,,
+69,,,,
+70,,,,
+71,,,,
+72,,,,
+73,,,,
+74,,,,
+75,,,,

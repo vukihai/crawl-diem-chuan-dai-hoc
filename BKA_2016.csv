@@ -1,0 +1,37 @@
+,0,1,2,3
+0,Mã ngành: KQ1,Tên ngành: Kinh tế - Quản lý 1 gồm các ngành/CTĐT: Kinh tế công nghiệp; Quản lý công nghiệp,"Tổ hợp môn: A00,A01,D01",NV1: 7.47
+1,Mã ngành: KQ2,Tên ngành: Kinh tế - Quản lý 2 gồm ngành/CTĐT: Quản trị kinh doanh,"Tổ hợp môn: A00,A01,D01",NV1: 7.73
+2,Mã ngành: KQ3,Tên ngành: Kinh tế - Quản lý 3 gồm các ngành/CTĐT: Kế toán; Tài chính-Ngân hàng,"Tổ hợp môn: A00,A01,D01",NV1: 7.73
+3,Mã ngành: KT11,Tên ngành: Cơ điện tử gồm các ngành/CTĐT: Kỹ thuật cơ điện tử; Công nghệ kỹ thuật cơ điện tử (CN),"Tổ hợp môn: A00,A01",NV1: 8.42
+4,Mã ngành: KT12,Tên ngành: Cơ khí – Động lực gồm các ngành/CTĐT: Kỹ thuật cơ khí; Kỹ thuật ô tô; Kỹ thuật hàng không; Kỹ thuật tàu thủy; Công nghệ chế tạo máy (CN); Công nghệ kỹ thuật ô tô (CN),"Tổ hợp môn: A00,A01",NV1: 8.00
+5,Mã ngành: KT13,Tên ngành: Nhiệt – Lạnh gồm ngành/CTĐT: Kỹ thuật nhiệt,"Tổ hợp môn: A00,A01",NV1: 7.65
+6,Mã ngành: KT14,Tên ngành: Vật liệu gồm ngành/CTĐT: Kỹ thuật vật liệu,"Tổ hợp môn: A00,A01",NV1: 7.66
+7,Mã ngành: KT21,Tên ngành: Điện tử - Viễn thông gồm các ngành/CTĐT: Kỹ thuật điện tử - viễn thông; Công nghệ kỹ thuật điện tử - viễn thông (CN),"Tổ hợp môn: A00,A01",NV1: 8.30
+8,Mã ngành: KT22,Tên ngành: Công nghệ thông tin gồm các ngành/CTĐT: Khoa học máy tính; Kỹ thuật máy tính; Hệ thống thông tin; Kỹ thuật phần mềm; Truyền thông và mạng máy tính; Công nghệ thông tin (CN);,"Tổ hợp môn: A00,A01",NV1: 8.82
+9,Mã ngành: KT23,Tên ngành: Toán - Tin gồm các ngành/CTĐT: Toán-Tin; Hệ thống thông tin quản lý,"Tổ hợp môn: A00,A01",NV1: 8.03
+10,Mã ngành: KT24,Tên ngành: Điện - Điều khiển và Tự động hóa gồm các ngành/CTĐT: Kỹ thuật điện; Kỹ thuật điều khiển và tự động hóa; Công nghệ kỹ thuật điện (CN); Công nghệ kỹ thuật điều khiển và tự động hóa (CN);,"Tổ hợp môn: A00,A01",NV1: 8.53
+11,Mã ngành: KT31,Tên ngành: Hóa - Sinh - Thực phẩm và Môi trường gồm các ngành/CTĐT: Kỹ thuật sinh học / Công nghệ sinh học; Kỹ thuật hóa học; Kỹ thuật thực phẩm; Kỹ thuật môi trường; Hóa học; Công nghệ kỹ thuật hóa học (CN); Công nghệ thực phẩm (CN),"Tổ hợp môn: A00,B00,D07",NV1: 7.93
+12,Mã ngành: KT32,Tên ngành: Kỹ thuật in gồm ngành/CTĐT: Kỹ thuật in,"Tổ hợp môn: A00,B00,D07",NV1: 7.75
+13,Mã ngành: KT41,Tên ngành: Dệt-May gồm các ngành/CTĐT: Kỹ thuật dệt; Công nghệ may,"Tổ hợp môn: A00,A01",NV1: 7.73
+14,Mã ngành: KT42,Tên ngành: Sư phạm kỹ thuật gồm các ngành/CTĐT: Sư phạm kỹ thuật công nghiệp,"Tổ hợp môn: A00,A01",NV1: 7.11
+15,Mã ngành: KT5,Tên ngành: Vật lý kỹ thuật–Kỹ thuật hạt nhân gồm các ngành/CTĐT: Vật lý kỹ thuật; Kỹ thuật hạt nhân,"Tổ hợp môn: A00,A01",NV1: 7.62
+16,Mã ngành: QT11,"Tên ngành: Cơ điện tử, ĐH Nagaoka (Nhật Bản)","Tổ hợp môn: A00,A01,D07",NV1: 7.50
+17,Mã ngành: QT12,"Tên ngành: Điện tử -Viễn thông, ĐH Hannover (Đức)","Tổ hợp môn: A00,A01,D07",NV1: 7.28
+18,Mã ngành: QT13,"Tên ngành: Hệ thống thông tin, ĐH Grenoble (Pháp)","Tổ hợp môn: A00,A01,D07,D29",NV1: 7.00
+19,Mã ngành: QT14,"Tên ngành: Công nghệ thông tin, ĐH La Trobe (Úc)","Tổ hợp môn: A00,A01,D07",NV1: 7.52
+20,Mã ngành: QT15,"Tên ngành: Công nghệ thông tin, ĐH Victoria (New Zealand)","Tổ hợp môn: A00,A01,D07",NV1: 6.58
+21,Mã ngành: QT21,"Tên ngành: Quản trị kinh doanh, ĐH Victoria (New Zealand)","Tổ hợp môn: A00,A01,D01,D07",NV1: 6.70
+22,Mã ngành: QT31,"Tên ngành: Quản trị kinh doanh, ĐH Troy (Hoa Kỳ)","Tổ hợp môn: A00,A01,D01,D07",NV1: 6.50
+23,Mã ngành: QT32,"Tên ngành: Khoa học máy tính, ĐH Troy (Hoa Kỳ)","Tổ hợp môn: A00,A01,D01,D07",NV1: 6.70
+24,Mã ngành: QT33,"Tên ngành: Quản trị kinh doanh, ĐH Pierre Mendes France (Pháp)","Tổ hợp môn: A00,A01,D01,D03,D07,D24,D29",NV1: 6.52
+25,Mã ngành: QT41,Tên ngành: Quản lý hệ thống công nghiệp (tiếng Anh),"Tổ hợp môn: A00,A01,D01,D07",NV1: 6.53
+26,Mã ngành: TA1,Tên ngành: Ngôn ngữ Anh kỹ thuật gồm ngành/CTĐT: Tiếng Anh KHKT và công nghệ,Tổ hợp môn: D01,NV1: 7.48
+27,Mã ngành: TA2,Tên ngành: Ngôn ngữ Anh quốc tế gồm ngành/CTĐT: Tiếng Anh chuyên nghiệp quốc tế,Tổ hợp môn: D01,NV1: 7.29
+28,Mã ngành: TT11,Tên ngành: CTTT Cơ điện tử gồm ngành/CTĐT: Chương trình tiên tiến Cơ điện tử,"Tổ hợp môn: A00,A01",NV1: 7.58
+29,Mã ngành: TT14,Tên ngành: CTTT Vật liệu gồm ngành/CTĐT: Chương trình tiên tiến Khoa học và Kỹ thuật vật liệu,"Tổ hợp môn: A00,A01",NV1: 7.98
+30,Mã ngành: TT21,Tên ngành: CTTT Điện tử - Viễn thông gồm ngành/CTĐT: Chương trình tiên tiến Điện tử - viễn thông,"Tổ hợp môn: A00,A01",NV1: 7.55
+31,Mã ngành: TT22,Tên ngành: CTTT Công nghệ thông tin Việt Nhật/ICT gồm các ngành/CTĐT: Chương trình Việt Nhật: Công nghệ thông tin Việt-Nhật (tiếng Việt) /Công nghệ thông tin ICT (tiếng Anh),"Tổ hợp môn: A00,A01",NV1: 7.53
+32,Mã ngành: TT25,Tên ngành: CTTT Kỹ thuật y sinh gồm ngành/CTĐT: Chương trình tiên tiến Kỹ thuật y sinh,"Tổ hợp môn: A00,A01",NV1: 7.61
+33,,,,
+34,,,,
+35,,,,

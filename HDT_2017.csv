@@ -1,0 +1,31 @@
+,0,1,2,3
+0,Mã ngành: 7140201,Tên ngành: Giáo dục Mầm non,Tổ hợp môn: M00,NV1: 15.50
+1,Mã ngành: 7140202,Tên ngành: Giáo dục Tiểu học,"Tổ hợp môn: A00,C00,D01,M00",NV1: 15.50
+2,Mã ngành: 7140206,Tên ngành: Giáo dục Thể chất,Tổ hợp môn: T00,NV1: 15.50
+3,Mã ngành: 7140209,Tên ngành: Sư phạm Toán học,"Tổ hợp môn: A00,A01,A02,D07",NV1: 15.50
+4,Mã ngành: 7140211,Tên ngành: Sư phạm Vật lí,"Tổ hợp môn: A00,A01,A02,C01",NV1: 15.50
+5,Mã ngành: 7140212,Tên ngành: Sư phạm Hóa học,"Tổ hợp môn: A00,B00,D07",NV1: 15.50
+6,Mã ngành: 7140213,Tên ngành: Sư phạm Sinh học,"Tổ hợp môn: B00,B03,D08",NV1: 15.50
+7,Mã ngành: 7140217,Tên ngành: Sư phạm Ngữ văn,"Tổ hợp môn: C00,C03,C04,D01",NV1: 15.50
+8,Mã ngành: 7140218,Tên ngành: Sư phạm Lịch sử,"Tổ hợp môn: C00,C10,C12,D01",NV1: 15.50
+9,Mã ngành: 7140219,Tên ngành: SP Địa lý,"Tổ hợp môn: A00,C00,C04,C20",NV1: 15.50
+10,Mã ngành: 7140231,Tên ngành: SP Tiếng Anh,"Tổ hợp môn: A01,D01,D90,D96",NV1: 15.50
+11,Mã ngành: 7220113,Tên ngành: (*)Việt Nam học (định hướng Quản lí Du lịch-Khách sạn),"Tổ hợp môn: C00,C14,C19,D01",NV1: 15.50
+12,Mã ngành: 7310101,Tên ngành: Kinh tế,"Tổ hợp môn: A00,C01,C02,D01",NV1: 15.50
+13,Mã ngành: 7310301,Tên ngành: Xã hội học,"Tổ hợp môn: C00,C14,C19,D01",NV1: 15.50
+14,Mã ngành: 7310401,Tên ngành: Tâm lý học,"Tổ hợp môn: A00,C00,C14,D01",NV1: 15.50
+15,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,"Tổ hợp môn: A00,C01,C02,D01",NV1: 15.50
+16,Mã ngành: 7340201,Tên ngành: Tài chính-Ngân hàng,"Tổ hợp môn: A00,C01,C02,D01",NV1: 15.50
+17,Mã ngành: 7340301,Tên ngành: Kế toán,"Tổ hợp môn: A00,C01,C02,D01",NV1: 15.50
+18,Mã ngành: 7380101,Tên ngành: Luật,"Tổ hợp môn: A00,C00,C14,D01",NV1: 15.50
+19,Mã ngành: 7480201,Tên ngành: (*)Công nghệ thông tin,"Tổ hợp môn: A00,A01,D07,D90",NV1: 15.50
+20,Mã ngành: 7510406,Tên ngành: (*)Công nghệ kĩ thuật môi trường,"Tổ hợp môn: A00,A01,A02,B00",NV1: 15.50
+21,Mã ngành: 7520201,"Tên ngành: (*)Kĩ thuật điện, điện tử","Tổ hợp môn: A00,A01,A02,B00",NV1: 15.50
+22,Mã ngành: 7580201,Tên ngành: Kĩ thuật công trình xây dựng,"Tổ hợp môn: A00,A01,A02,B00",NV1: 15.50
+23,Mã ngành: 7620105,Tên ngành: (*)Chăn nuôi (Chăn nuôi-Thú y),"Tổ hợp môn: A00,B00,B03,D08",NV1: 15.50
+24,Mã ngành: 7620109,Tên ngành: (*)Nông học (định hướng công nghệ cao),"Tổ hợp môn: A00,B00,B03,D08",NV1: 15.50
+25,Mã ngành: 7620112,Tên ngành: (*)Bảo vệ thực vật,"Tổ hợp môn: A00,B00,B03,D08",NV1: 15.50
+26,Mã ngành: 7620114,Tên ngành: (*)Kinh doanh nông nghiệp,"Tổ hợp môn: A00,C01,C02,D01",NV1: 15.50
+27,Mã ngành: 7620201,Tên ngành: (*)Lâm nghiệp,"Tổ hợp môn: A00,B00,B03,D08",NV1: 15.50
+28,Mã ngành: 7620301,Tên ngành: Nuôi trồng thủy sản,"Tổ hợp môn: A00,B00,B03,D08",NV1: 15.50
+29,Mã ngành: 7850101,Tên ngành: Quản lý tài nguyên và môi trường,"Tổ hợp môn: A00,C00,C04,C09",NV1: 15.50

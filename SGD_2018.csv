@@ -1,0 +1,58 @@
+,0,1,2,3
+0,Mã ngành: 7140114,Tên ngành: Quản lý giáo dục,Tổ hợp môn: D01,NV1: 17.50
+1,Mã ngành: 7140114,Tên ngành: Quản lý giáo dục,Tổ hợp môn: C04,NV1: 18.50
+2,Mã ngành: 7140201,Tên ngành: Giáo dục Mầm non,Tổ hợp môn: M01,NV1: 22.00
+3,Mã ngành: 7140202,Tên ngành: Giáo dục Tiểu học,Tổ hợp môn: D01,NV1: 19.00
+4,Mã ngành: 7140205,Tên ngành: Giáo dục chính trị,"Tổ hợp môn: C03, D01",NV1: 18.00
+5,Mã ngành: 7140209,Tên ngành: Sư phạm Toán học,Tổ hợp môn: A01,NV1: 20.29
+6,Mã ngành: 7140209,Tên ngành: Sư phạm Toán học,Tổ hợp môn: A00,NV1: 21.29
+7,Mã ngành: 7140211,Tên ngành: Sư phạm Vật lí,Tổ hợp môn: A00,NV1: 20.30
+8,Mã ngành: 7140212,Tên ngành: Sư phạm Hóa học,Tổ hợp môn: A00,NV1: 20.66
+9,Mã ngành: 7140213,Tên ngành: Sư phạm Sinh học,Tổ hợp môn: B00,NV1: 18.00
+10,Mã ngành: 7140217,Tên ngành: Sư phạm Ngữ văn,Tổ hợp môn: C00,NV1: 20.88
+11,Mã ngành: 7140218,Tên ngành: Sư phạm Lịch sử,Tổ hợp môn: C00,NV1: 18.13
+12,Mã ngành: 7140219,Tên ngành: Sư phạm Địa lí,"Tổ hợp môn: C00, C04",NV1: 20.38
+13,Mã ngành: 7140221,Tên ngành: Sư phạm Âm nhạc,Tổ hợp môn: N01,NV1: 20.00
+14,Mã ngành: 7140222,Tên ngành: Sư phạm Mỹ thuật,Tổ hợp môn: H00,NV1: 18.00
+15,Mã ngành: 7140231,Tên ngành: Sư phạm Tiếng Anh,Tổ hợp môn: D01,NV1: 20.95
+16,Mã ngành: 7210205,Tên ngành: Thanh nhạc,Tổ hợp môn: N02,NV1: 20.75
+17,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh (Thương mại - du lịch),Tổ hợp môn: D01,NV1: 20.78
+18,Mã ngành: 7310401,Tên ngành: Tâm lý học,Tổ hợp môn: D01,NV1: 18.50
+19,Mã ngành: 7310601,Tên ngành: Quốc tế học,Tổ hợp môn: D01,NV1: 18.45
+20,Mã ngành: 7310630,Tên ngành: Việt Nam học,Tổ hợp môn: C00,NV1: 19.50
+21,Mã ngành: 7320201,Tên ngành: Thông tin - thư viện,"Tổ hợp môn: C04, D01",NV1: 16.20
+22,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,Tổ hợp môn: D01,NV1: 18.58
+23,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,Tổ hợp môn: A01,NV1: 19.58
+24,Mã ngành: 7340120,Tên ngành: Kinh doanh quốc tế,Tổ hợp môn: Toán Lý Anh,NV1: 19.98
+25,Mã ngành: 7340120,Tên ngành: Kinh doanh quốc tế,Tổ hợp môn: Văn Toán Anh,NV1: 18.98
+26,Mã ngành: 7340201,Tên ngành: Tài chính Ngân hàng,Tổ hợp môn: Văn Toán Anh,NV1: 17.28
+27,Mã ngành: 7340201,Tên ngành: Tài chính Ngân hàng,Tổ hợp môn: Văn Toán Lí,NV1: 18.28
+28,Mã ngành: 7340301,Tên ngành: Kế toán,Tổ hợp môn: Văn Toán Anh,NV1: 17.96
+29,Mã ngành: 7340301,Tên ngành: Kế toán,Tổ hợp môn: Văn Toán Lí,NV1: 18.96
+30,Mã ngành: 7340406,Tên ngành: Quản trị văn phòng,Tổ hợp môn: Văn Toán Địa,NV1: 20.29
+31,Mã ngành: 7340406,Tên ngành: Quản trị văn phòng,Tổ hợp môn: Văn Toán Anh,NV1: 19.29
+32,Mã ngành: 7380101,Tên ngành: Luật,Tổ hợp môn: Văn Toán Sử,NV1: 20.15
+33,Mã ngành: 7380101,Tên ngành: Luật,Tổ hợp môn: Văn Toán Anh,NV1: 19.15
+34,Mã ngành: 7440301,Tên ngành: Khoa học môi trường,Tổ hợp môn: B00,NV1: 16.00
+35,Mã ngành: 7440301,Tên ngành: Khoa học môi trường,Tổ hợp môn: A00,NV1: 15.00
+36,Mã ngành: 7460112,Tên ngành: Toán ứng dụng,Tổ hợp môn: A01,NV1: 15.34
+37,Mã ngành: 7460112,Tên ngành: Toán ứng dụng,Tổ hợp môn: A00,NV1: 16.34
+38,Mã ngành: 7480103,Tên ngành: Kỹ thuật phần mềm,"Tổ hợp môn: A00, A01",NV1: 16.54
+39,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,"Tổ hợp môn: A00, A01",NV1: 18.29
+40,Mã ngành: 7480201CLC,Tên ngành: Công nghệ thông tin (chương trình chất lượng cao),"Tổ hợp môn: A00, A01",NV1: 16.53
+41,Mã ngành: 7510301,"Tên ngành: Công nghệ kỹ thuật điện, điện tử",Tổ hợp môn: A01,NV1: 17.20
+42,Mã ngành: 7510301,"Tên ngành: Công nghệ kỹ thuật điện, điện tử",Tổ hợp môn: A00,NV1: 18.20
+43,Mã ngành: 7510302,"Tên ngành: Công nghệ kỹ thuật điện tử, truyền thông",Tổ hợp môn: A01,NV1: 15.30
+44,Mã ngành: 7510302,"Tên ngành: Công nghệ kỹ thuật điện tử, truyền thông",Tổ hợp môn: A00,NV1: 16.30
+45,Mã ngành: 7510406,Tên ngành: Công nghệ kỹ thuật môi trường,Tổ hợp môn: B00,NV1: 16.10
+46,Mã ngành: 7510406,Tên ngành: Công nghệ kỹ thuật môi trường,Tổ hợp môn: A00,NV1: 15.10
+47,Mã ngành: 7520201,"Tên ngành: Kỹ thuật điện, điện tử",Tổ hợp môn: A01,NV1: 15.30
+48,Mã ngành: 7520201,"Tên ngành: Kỹ thuật điện, điện tử",Tổ hợp môn: A00,NV1: 16.30
+49,Mã ngành: 7520207,"Tên ngành: Kỹ thuật điện tử, truyền thông",Tổ hợp môn: A01,NV1: 15.65
+50,Mã ngành: 7520207,"Tên ngành: Kỹ thuật điện tử, truyền thông",Tổ hợp môn: A00,NV1: 16.65
+51,,,,
+52,,,,
+53,,,,
+54,,,,
+55,,,,
+56,,,,

@@ -68,6 +68,7 @@ if __name__ == '__main__':
     crawler = Crawler()
     for i in range(universitiesUrl.size):
         url = universitiesUrl[i]
+        print(url)
         uniCode = universitiesCode[i]
         crawler.crawl(url, uniCode)
     crawler.driver.close()

@@ -1,0 +1,50 @@
+,0,1,2,3
+0,Mã ngành: 7140101,Tên ngành: Giáo dục học,"Tổ hợp môn: B00, C01, D01",NV1: 17.80
+1,Mã ngành: 7140101,Tên ngành: Giáo dục học,Tổ hợp môn: C00,NV1: 19.80
+2,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,Tổ hợp môn: D01,NV1: 23.20
+3,Mã ngành: 7220201-BT,Tên ngành: Ngôn ngữ Anh,Tổ hợp môn: D01,NV1: 21.20
+4,Mã ngành: 7220202,Tên ngành: Ngôn ngữ Nga,"Tổ hợp môn: D01, D02",NV1: 18.10
+5,Mã ngành: 7220203,Tên ngành: Ngôn ngữ Pháp,"Tổ hợp môn: D01, D03",NV1: 20.60
+6,Mã ngành: 7220204,Tên ngành: Ngôn ngữ Trung Quốc,"Tổ hợp môn: D01, D04",NV1: 22.03
+7,Mã ngành: 7220205,Tên ngành: Ngôn ngữ Đức,"Tổ hợp môn: D01, D05",NV1: 20.20
+8,Mã ngành: 7220206,Tên ngành: Ngôn ngữ Tây Ban Nha,"Tổ hợp môn: D01, D03, D05",NV1: 19.30
+9,Mã ngành: 7220208,Tên ngành: Ngôn ngữ Italia,"Tổ hợp môn: D01, D03, D05",NV1: 18.80
+10,Mã ngành: 7229001,Tên ngành: Triết học,"Tổ hợp môn: A01, D01, D14",NV1: 17.25
+11,Mã ngành: 7229001,Tên ngành: Triết học,Tổ hợp môn: C00,NV1: 19.25
+12,Mã ngành: 7229010,Tên ngành: Lịch sử,"Tổ hợp môn: D01, D14",NV1: 18.10
+13,Mã ngành: 7229010,Tên ngành: Lịch sử,Tổ hợp môn: C00,NV1: 19.10
+14,Mã ngành: 7229020,Tên ngành: Ngôn ngữ học,Tổ hợp môn: C00,NV1: 22.00
+15,Mã ngành: 7229020,Tên ngành: Ngôn ngữ học,Tổ hợp môn: C00,NV1: 22.00
+16,Mã ngành: 7229030,Tên ngành: Văn học,"Tổ hợp môn: D01, D14",NV1: 21.40
+17,Mã ngành: 7229030,Tên ngành: Văn học,Tổ hợp môn: C00,NV1: 22.40
+18,Mã ngành: 7229040,Tên ngành: Văn hoá học,Tổ hợp môn: C00,NV1: 21.50
+19,Mã ngành: 7229040,Tên ngành: Văn hoá học,"Tổ hợp môn: D01, D14",NV1: 20.50
+20,Mã ngành: 7310206,Tên ngành: Quan hệ Quốc tế,"Tổ hợp môn: D01, D14",NV1: 22.60
+21,Mã ngành: 7310301,Tên ngành: Xã hội học,"Tổ hợp môn: A00, D01, D14",NV1: 19.50
+22,Mã ngành: 7310301,Tên ngành: Xã hội học,Tổ hợp môn: C00,NV1: 20.50
+23,Mã ngành: 7310302,Tên ngành: Nhân học,"Tổ hợp môn: D01, D14",NV1: 18.75
+24,Mã ngành: 7310302,Tên ngành: Nhân học,Tổ hợp môn: C00,NV1: 19.75
+25,Mã ngành: 7310401,Tên ngành: Tâm lý học,"Tổ hợp môn: B00, D01, D14",NV1: 22.20
+26,Mã ngành: 7310401,Tên ngành: Tâm lý học,Tổ hợp môn: C00,NV1: 23.20
+27,Mã ngành: 7310501,Tên ngành: Địa lý học,"Tổ hợp môn: A01, D01, D15",NV1: 20.25
+28,Mã ngành: 7310501,Tên ngành: Địa lý học,Tổ hợp môn: C00,NV1: 21.25
+29,Mã ngành: 7310608,Tên ngành: Đông phương học,"Tổ hợp môn: D01, D04, D14",NV1: 21.60
+30,Mã ngành: 7310613,Tên ngành: Nhật Bản học,"Tổ hợp môn: D01, D06, D14",NV1: 22.60
+31,Mã ngành: 7310613-BT,Tên ngành: Nhật Bản học,"Tổ hợp môn: D01, D06, D14",NV1: 20.60
+32,Mã ngành: 7310614,Tên ngành: Hàn Quốc học,"Tổ hợp môn: D01, D14",NV1: 22.25
+33,Mã ngành: 7320101,Tên ngành: Báo chí,"Tổ hợp môn: D01, D14",NV1: 22.60
+34,Mã ngành: 7320101,Tên ngành: Báo chí,Tổ hợp môn: C00,NV1: 24.60
+35,Mã ngành: 7320101-BT,Tên ngành: Báo chí,"Tổ hợp môn: D01, D14",NV1: 20.60
+36,Mã ngành: 7320101-BT,Tên ngành: Báo chí,Tổ hợp môn: C00,NV1: 22.60
+37,Mã ngành: 7320201,Tên ngành: Thông tin học,"Tổ hợp môn: A01, D01, D14",NV1: 16.50
+38,Mã ngành: 7320201,Tên ngành: Thông tin học,Tổ hợp môn: C00,NV1: 17.00
+39,Mã ngành: 7320303,Tên ngành: Lưu trữ học,"Tổ hợp môn: D01, D14",NV1: 19.25
+40,Mã ngành: 7320303,Tên ngành: Lưu trữ học,Tổ hợp môn: C00,NV1: 20.25
+41,Mã ngành: 7580112,Tên ngành: Đô thị học,Tổ hợp môn: D01,NV1: 17.00
+42,Mã ngành: 7580112-BT,Tên ngành: Đô thị học,"Tổ hợp môn: A00,A01,D14",NV1: 16.50
+43,Mã ngành: 7760101,Tên ngành: Công tác xã hội,"Tổ hợp môn: D01, D14",NV1: 19.00
+44,Mã ngành: 7760101,Tên ngành: Công tác xã hội,Tổ hợp môn: C00,NV1: 20.00
+45,Mã ngành: 7810101,Tên ngành: Du lịch,Tổ hợp môn: C00,NV1: 24.90
+46,Mã ngành: 7810101-BT,Tên ngành: Du lịch,"Tổ hợp môn: D01, D14",NV1: 22.90
+47,,,,
+48,,,,

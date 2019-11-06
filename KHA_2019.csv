@@ -1,0 +1,50 @@
+,0,1,2,3
+0,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,"Tổ hợp môn: A01, D01, D09, D10",NV1: 33.65
+1,Mã ngành: 7310101,Tên ngành: Kinh tế,"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.75
+2,Mã ngành: 7310104,Tên ngành: Kinh tế đầu tư,"Tổ hợp môn: A00, A01, B00, D01",NV1: 24.85
+3,Mã ngành: 7310105,Tên ngành: Kinh tế phát triển,"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.45
+4,Mã ngành: 7310106,Tên ngành: Kinh tế quốc tế,"Tổ hợp môn: A00, A01, D01, D07",NV1: 26.15
+5,Mã ngành: 7310107,Tên ngành: Thông kê kinh tế,"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.75
+6,Mã ngành: 7310108,Tên ngành: Toán kinh tế,"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.15
+7,Mã ngành: 7320108,Tên ngành: Quan hệ công chúng,"Tổ hợp môn: A01, C03, C04, D01",NV1: 25.50
+8,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,"Tổ hợp môn: A00, A01, D01, D07",NV1: 25.25
+9,Mã ngành: 7340115,Tên ngành: Marketing,"Tổ hợp môn: A00, A01, D01, D07",NV1: 25.60
+10,Mã ngành: 7340116,Tên ngành: Bất động sản,"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.85
+11,Mã ngành: 7340120,Tên ngành: Kinh doanh quốc tế,"Tổ hợp môn: A00, A01, D01, D07",NV1: 26.15
+12,Mã ngành: 7340121,Tên ngành: Kinh doanh thương mại,"Tổ hợp môn: A00, A01, D01, D07",NV1: 25.10
+13,Mã ngành: 7340122,Tên ngành: Thương mại điện tử,"Tổ hợp môn: A00, A01, D01, D07",NV1: 25.60
+14,Mã ngành: 7340201,Tên ngành: Tài chính ngân hàng,"Tổ hợp môn: A00, A01, D01, D07",NV1: 25.00
+15,Mã ngành: 7340204,Tên ngành: Bảo hiểm,"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.35
+16,Mã ngành: 7340301,Tên ngành: Kế toán,"Tổ hợp môn: A00, A01, D01, D07",NV1: 25.35
+17,Mã ngành: 7340401,Tên ngành: Khoa học quản lý,"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.60
+18,Mã ngành: 7340403,Tên ngành: Quản lý công,"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.35
+19,Mã ngành: 7340404,Tên ngành: Quản trị nhân lực,"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.90
+20,Mã ngành: 7340405,Tên ngành: Hệ thống thông tin quản lý,"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.30
+21,Mã ngành: 7340409,Tên ngành: Quản lý dự án,"Tổ hợp môn: A00, A01, B00, D01",NV1: 24.40
+22,Mã ngành: 7380101,Tên ngành: Luật,"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.10
+23,Mã ngành: 7380107,Tên ngành: Luật kinh tế,"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.50
+24,Mã ngành: 7480101,Tên ngành: Khoa học máy tính,"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.70
+25,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.10
+26,Mã ngành: 7510605,Tên ngành: Logistics và quản lý chuỗi cung ứng,"Tổ hợp môn: A00, A01, D01, D07",NV1: 26.00
+27,Mã ngành: 7620115,Tên ngành: Kinh tế nông nghiệp,"Tổ hợp môn: A00, A01, B00, D01",NV1: 22.60
+28,Mã ngành: 7810103,Tên ngành: Quản trị dịch vụ du lịch và lũ hành,"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.85
+29,Mã ngành: 7810201,Tên ngành: Quản trị khách sạn,"Tổ hợp môn: A00, A01, D01, D07",NV1: 25.40
+30,Mã ngành: 7850101,Tên ngành: Quản lý tài nguyên và môi trường,"Tổ hợp môn: A00, A01, D01, D07",NV1: 22.65
+31,Mã ngành: 7850102,Tên ngành: Kinh tế tài nguyên thiên nhiên,"Tổ hợp môn: A00, A01, B00, D01",NV1: 22.30
+32,Mã ngành: 7850103,Tên ngành: Quản lý đất đai,"Tổ hợp môn: A00, A01, D01, D07",NV1: 22.50
+33,Mã ngành: EBBA,Tên ngành: Quản trị kinh doanh ( E BBA),"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.25
+34,Mã ngành: EP01,Tên ngành: Khởi nghiệp và phát triển kinh doanh (BBAE - tiếng Anh hệ số 2),"Tổ hợp môn: A01, D01, D07, D09",NV1: 31.00
+35,Mã ngành: EP02,Tên ngành: Định phí Bảo hiểm & Quản trị rủi ro (Actuary),"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.50
+36,Mã ngành: EP03,Tên ngành: Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB),"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.00
+37,Mã ngành: EP04,Tên ngành: Kế toán tích hợp chứng chỉ quốc tế (ICAEW CFAB),"Tổ hợp môn: A00, A01, D01, D07",NV1: 24.65
+38,Mã ngành: EP05,Tên ngành: Kinh doanh số (E-BDB),"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.35
+39,Mã ngành: EP06,Tên ngành: Phân tích kinh doanh (BA),"Tổ hợp môn: A00, A01, D01, D07",NV1: 23.35
+40,Mã ngành: EP07,Tên ngành: Quản trị điều hành thông minh (E-SOM),"Tổ hợp môn: A01, D01, D07, D10",NV1: 23.15
+41,Mã ngành: EP08,Tên ngành: Quản trị chất lượng và Đổi mới (E-MQI),"Tổ hợp môn: A01, D01, D07, D10",NV1: 22.75
+42,Mã ngành: EP09,Tên ngành: Công nghệ tài chính (BFT),"Tổ hợp môn: A00, A01, B00, D07",NV1: 22.75
+43,Mã ngành: EP10,Tên ngành: Đầu tư tài chính (BFI - tiếng Anh hệ số 2),"Tổ hợp môn: A01, D01, D07, D10",NV1: 31.75
+44,Mã ngành: EP11,Tên ngành: Quản trị khách sạn quốc tế (IHME - tiếng Anh hệ số 2),"Tổ hợp môn: A01, D01, D09, D10",NV1: 33.35
+45,Mã ngành: EPMP,Tên ngành: Quản lý công và Chính sách (E-PMP),"Tổ hợp môn: A00, A01, D01, D07",NV1: 21.50
+46,Mã ngành: POHE,Tên ngành: Các chương trình định hướng ứng dụng (POHE - tiếng Anh hệ số 2),"Tổ hợp môn: A01, D01, D07, D09",NV1: 31.75
+47,,,,
+48,,,,

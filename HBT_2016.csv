@@ -1,0 +1,60 @@
+,0,1,2,3
+0,Mã ngành: 530,Tên ngành: Ngành Chính trị học. chuyên ngành Quản lý hoạt động tư tưởng - văn hóa,Tổ hợp môn: C04,NV1: 20.00
+1,Mã ngành: 530,Tên ngành: Ngành Chính trị học. chuyên ngành Quản lý hoạt động tư tưởng - văn hóa,Tổ hợp môn: D01,NV1: 18.50
+2,Mã ngành: 530,Tên ngành: Ngành Chính trị học. chuyên ngành Quản lý hoạt động tư tưởng - văn hóa,Tổ hợp môn: C03,NV1: 19.00
+3,Mã ngành: 531,Tên ngành: Ngành Chính trị học. chuyên ngành Chính trị phát triển,Tổ hợp môn: C04,NV1: 19.50
+4,Mã ngành: 531,Tên ngành: Ngành Chính trị học. chuyên ngành Chính trị phát triển,Tổ hợp môn: D01,NV1: 18.50
+5,Mã ngành: 531,Tên ngành: Ngành Chính trị học. chuyên ngành Chính trị phát triển,Tổ hợp môn: C03,NV1: 19.00
+6,Mã ngành: 532,Tên ngành: Ngành Chính trị học. chuyên ngành Quản lý xã hội,Tổ hợp môn: C04,NV1: 21.00
+7,Mã ngành: 532,Tên ngành: Ngành Chính trị học. chuyên ngành Quản lý xã hội,Tổ hợp môn: D01,NV1: 20.50
+8,Mã ngành: 532,Tên ngành: Quản lý xã hội,Tổ hợp môn: C03,NV1: 20.25
+9,Mã ngành: 533,Tên ngành: Ngành Chính trị học. chuyên ngành Tư tưởng Hồ Chí Minh,Tổ hợp môn: C04,NV1: 18.50
+10,Mã ngành: 533,Tên ngành: Ngành Chính trị học. chuyên ngành Tư tưởng Hồ Chí Minh,"Tổ hợp môn: D01,C03",NV1: 17.50
+11,Mã ngành: 535,Tên ngành: Ngành Chính trị học. chuyên ngành Văn hóa phát triển,Tổ hợp môn: C04,NV1: 20.50
+12,Mã ngành: 535,Tên ngành: Ngành Chính trị học. chuyên ngành Văn hóa phát triển,"Tổ hợp môn: D01,C03",NV1: 19.50
+13,Mã ngành: 536,Tên ngành: Ngành Chính trị học. chuyên ngành Chính sách công,Tổ hợp môn: C04,NV1: 19.75
+14,Mã ngành: 536,Tên ngành: Ngành Chính trị học. chuyên ngành Chính sách công,"Tổ hợp môn: D01,C03",NV1: 19.00
+15,Mã ngành: 537,Tên ngành: Ngành Chính trị học. chuyên ngành Khoa học quản lý nhà nước,Tổ hợp môn: C04,NV1: 21.00
+16,Mã ngành: 537,Tên ngành: Ngành Chính trị học. chuyên ngành Khoa học quản lý nhà nước,Tổ hợp môn: D01,NV1: 19.75
+17,Mã ngành: 537,Tên ngành: Ngành Chính trị học. chuyên ngành Khoa học quản lý nhà nước,Tổ hợp môn: C03,NV1: 20.00
+18,Mã ngành: 600,Tên ngành: Ngành Báo chí. chuyên ngành Báo in. Báo phát thanh. Báo truyền hình. Báo mạng điện tử,Tổ hợp môn: M17,NV1: 21.50
+19,Mã ngành: 600,Tên ngành: Ngành Báo chí. chuyên ngành Báo in. Báo phát thanh. Báo truyền hình. Báo mạng điện tử,Tổ hợp môn: M15,NV1: 19.50
+20,Mã ngành: 600,Tên ngành: Ngành Báo chí. chuyên ngành Báo in. Báo phát thanh. Báo truyền hình. Báo mạng điện tử,Tổ hợp môn: M14,NV1: 21.00
+21,Mã ngành: 603,Tên ngành: Ngành Báo chí. chuyên ngành Ảnh báo chí,"Tổ hợp môn: M18,M21",NV1: 20.00
+22,Mã ngành: 603,Tên ngành: Ngành Báo chí. chuyên ngành Ảnh báo chí,Tổ hợp môn: M19,NV1: 19.00
+23,Mã ngành: 606,Tên ngành: Ngành Báo chí. chuyên ngành Quay phim truyền hình,"Tổ hợp môn: M22,M23,M25",NV1: 19.00
+24,Mã ngành: 612,Tên ngành: Ngành Quan hệ quốc tế. chuyên ngành Thông tin đối ngoại. chuyên ngành Quan hệ chính trị và truyền thông quốc tế,"Tổ hợp môn: D01,D14",NV1: 29.25
+25,Mã ngành: 612,Tên ngành: Ngành Quan hệ quốc tế. chuyên ngành Thông tin đối ngoại. chuyên ngành Quan hệ chính trị và truyền thông quốc tế,Tổ hợp môn: D15,NV1: 29.50
+26,Mã ngành: 615,Tên ngành: Ngành Quan hệ công chúng. chuyên ngành Quan hệ công chúng chuyên nghiệp,"Tổ hợp môn: D14,D15",NV1: 30.50
+27,Mã ngành: 615,Tên ngành: Ngành Quan hệ công chúng. chuyên ngành Quan hệ công chúng chuyên nghiệp,Tổ hợp môn: D01,NV1: 30.00
+28,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,Tổ hợp môn: D01,NV1: 29.50
+29,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,"Tổ hợp môn: D14,D15",NV1: 29.00
+30,Mã ngành: 7220310,Tên ngành: Lịch sử,"Tổ hợp môn: C03,D14",NV1: 18.50
+31,Mã ngành: 7220310,Tên ngành: Lịch sử,Tổ hợp môn: C00,NV1: 23.50
+32,Mã ngành: 7310202,Tên ngành: Xây dựng Đảng và chính quyền nhà nước,Tổ hợp môn: D01,NV1: 20.50
+33,Mã ngành: 7310202,Tên ngành: Xây dựng Đảng và chính quyền nhà nước,Tổ hợp môn: C03,NV1: 20.00
+34,Mã ngành: 7310202,Tên ngành: Xây dựng Đảng và chính quyền nhà nước,Tổ hợp môn: C04,NV1: 21.50
+35,Mã ngành: 7310301,Tên ngành: Xã hội học,Tổ hợp môn: C04,NV1: 22.00
+36,Mã ngành: 7310301,Tên ngành: Xã hội học,Tổ hợp môn: D01,NV1: 20.75
+37,Mã ngành: 7310301,Tên ngành: Xã hội học,Tổ hợp môn: C03,NV1: 20.50
+38,Mã ngành: 7320110,Tên ngành: Quảng cáo,"Tổ hợp môn: D01,D14,D15",NV1: 28.50
+39,Mã ngành: 7320401,Tên ngành: Xuất bản,Tổ hợp môn: C04,NV1: 22.75
+40,Mã ngành: 7320401,Tên ngành: Xuất bản,"Tổ hợp môn: D01,C03",NV1: 22.00
+41,Mã ngành: 74,Tên ngành: Ngành Triết học. chuyên ngành Triết học Mác - Lênin,Tổ hợp môn: C04,NV1: 19.00
+42,Mã ngành: 74,Tên ngành: Ngành Triết học. chuyên ngành Triết học Mác - Lênin,"Tổ hợp môn: D01,C03",NV1: 17.50
+43,Mã ngành: 75,Tên ngành: Ngành Triết học. chuyên ngành Chủ nghĩa xã hội khoa học,Tổ hợp môn: C04,NV1: 18.00
+44,Mã ngành: 75,Tên ngành: Ngành Triết học. chuyên ngành Chủ nghĩa xã hội khoa học,"Tổ hợp môn: D01,C03",NV1: 17.50
+45,Mã ngành: 76,Tên ngành: Ngành Kinh tế. chuyên ngành Kinh tế chính trị,Tổ hợp môn: C03,NV1: 19.50
+46,Mã ngành: 76,Tên ngành: Ngành Kinh tế. chuyên ngành Kinh tế chính trị,Tổ hợp môn: C04,NV1: 21.00
+47,Mã ngành: 76,Tên ngành: Ngành Kinh tế. chuyên ngành Kinh tế chính trị,Tổ hợp môn: D01,NV1: 19.00
+48,Mã ngành: 77,Tên ngành: Ngành Kinh tế. chuyên ngành Quản lý kinh tế,Tổ hợp môn: C04,NV1: 22.75
+49,Mã ngành: 77,Tên ngành: Ngành Kinh tế. chuyên ngành Quản lý kinh tế,"Tổ hợp môn: D01,C03",NV1: 21.25
+50,Mã ngành: 7760101,Tên ngành: Công tác xã hội,"Tổ hợp môn: C04,D01",NV1: 22.00
+51,Mã ngành: 7760101,Tên ngành: Công tác xã hội,Tổ hợp môn: C03,NV1: 21.50
+52,,,,
+53,,,,
+54,,,,
+55,,,,
+56,,,,
+57,,,,
+58,,,,

@@ -1,0 +1,65 @@
+,0,1,2,3
+0,Mã ngành: 51140214,Tên ngành: Sư phạm Kỹ thuật công nghiệp.,Tổ hợp môn: C01,NV1: 18.50
+1,Mã ngành: 51140214,Tên ngành: Sư phạm Kỹ thuật công nghiệp.,Tổ hợp môn: D01,NV1: 15.50
+2,Mã ngành: 51140215,Tên ngành: Sư phạm Kỹ thuật nông nghiệp.,"Tổ hợp môn: B03,D01",NV1: 15.00
+3,Mã ngành: 51140216,Tên ngành: Sư phạm Kinh tế gia đình.,Tổ hợp môn: D01,NV1: 15.25
+4,Mã ngành: 51140216,Tên ngành: Sư phạm Kinh tế gia đình.,Tổ hợp môn: C02,NV1: 16.00
+5,Mã ngành: 7140114,Tên ngành: Quản lý giáo dục,Tổ hợp môn: D01,NV1: 16.25
+6,Mã ngành: 7140114,Tên ngành: Quản lý giáo dục,Tổ hợp môn: C04,NV1: 18.25
+7,Mã ngành: 7140201,Tên ngành: Giáo dục Mầm non,Tổ hợp môn: M01,NV1: 22.00
+8,Mã ngành: 7140202,Tên ngành: Giáo dục Tiểu học,Tổ hợp môn: D01,NV1: 18.50
+9,Mã ngành: 7140205A,Tên ngành: Giáo dục chính trị (đào tạo GV THPT),"Tổ hợp môn: C03,D01",NV1: 16.00
+10,Mã ngành: 7140205B,Tên ngành: Giáo dục chính trị (đào tạo GV THCS),"Tổ hợp môn: C03,D01",NV1: 16.00
+11,Mã ngành: 7140209A,Tên ngành: Sư phạm Toán học (đào tạo GV THPT),Tổ hợp môn: A00,NV1: 31.75
+12,Mã ngành: 7140209A,Tên ngành: Sư phạm Toán học (đào tạo GV THPT),Tổ hợp môn: A01,NV1: 30.50
+13,Mã ngành: 7140209B,Tên ngành: Sư phạm Toán học (đào tạo GV THCS),"Tổ hợp môn: A00,A01",NV1: 29.75
+14,Mã ngành: 7140211A,Tên ngành: Sư phạm Vật lí (đào tạo GV THPT),Tổ hợp môn: A00,NV1: 30.25
+15,Mã ngành: 7140211B,Tên ngành: Sư phạm Vật lí (đào tạo GV THCS),Tổ hợp môn: A00,NV1: 28.50
+16,Mã ngành: 7140212A,Tên ngành: Sư phạm Hóa học (đào tạo GV THPT),Tổ hợp môn: A00,NV1: 29.50
+17,Mã ngành: 7140212B,Tên ngành: Sư phạm Hóa học (đào tạo GV THCS),Tổ hợp môn: A00,NV1: 26.50
+18,Mã ngành: 7140213A,Tên ngành: Sư phạm Sinh học (đào tạo GV THPT),Tổ hợp môn: B00,NV1: 26.00
+19,Mã ngành: 7140213B,Tên ngành: Sư phạm Sinh học (đào tạo GV THCS),Tổ hợp môn: B00,NV1: 23.50
+20,Mã ngành: 7140217A,Tên ngành: Sư phạm Ngữ văn (đào tạo GV THPT),Tổ hợp môn: C00,NV1: 26.25
+21,Mã ngành: 7140217B,Tên ngành: Sư phạm Ngữ văn (đào tạo GV THCS),Tổ hợp môn: C00,NV1: 22.50
+22,Mã ngành: 7140218A,Tên ngành: Sư phạm Lịch sử (đào tạo GV THPT),Tổ hợp môn: C00,NV1: 21.75
+23,Mã ngành: 7140218B,Tên ngành: Sư phạm Lịch sử (đào tạo GV THCS),Tổ hợp môn: C00,NV1: 20.25
+24,Mã ngành: 7140219A,Tên ngành: Sư phạm Địa lí (đào tạo GV THPT),"Tổ hợp môn: C00,C04",NV1: 26.00
+25,Mã ngành: 7140219B,Tên ngành: Sư phạm Địa lí (đào tạo GV THCS),"Tổ hợp môn: C00,C04",NV1: 23.25
+26,Mã ngành: 7140219B,Tên ngành: Sư phạm Địa lí (đào tạo GV THCS),Tổ hợp môn: C04,NV1: 24.25
+27,Mã ngành: 7140221,Tên ngành: Sư phạm Âm nhạc,Tổ hợp môn: N01,NV1: 18.50
+28,Mã ngành: 7140222,Tên ngành: Sư phạm Mỹ thuật,Tổ hợp môn: H00,NV1: 17.25
+29,Mã ngành: 7140231A,Tên ngành: Sư phạm Tiếng Anh (đào tạo GV THPT),Tổ hợp môn: D01,NV1: 28.50
+30,Mã ngành: 7140231B,Tên ngành: Sư phạm Tiếng Anh (đào tạo GV THCS),Tổ hợp môn: D01,NV1: 24.25
+31,Mã ngành: 7210205,Tên ngành: Thanh nhạc,Tổ hợp môn: N02,NV1: 19.75
+32,Mã ngành: 7220113,Tên ngành: Việt Nam học,Tổ hợp môn: C00,NV1: 16.75
+33,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,Tổ hợp môn: D01,NV1: 25.00
+34,Mã ngành: 7220212,Tên ngành: Quốc tế học,Tổ hợp môn: D01,NV1: 22.25
+35,Mã ngành: 7310401,Tên ngành: Tâm lý học,Tổ hợp môn: D01,NV1: 17.50
+36,Mã ngành: 7320202,Tên ngành: Khoa học thư viện,"Tổ hợp môn: C04,D01",NV1: 16.00
+37,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,Tổ hợp môn: D01,NV1: 22.50
+38,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,Tổ hợp môn: A01,NV1: 24.25
+39,Mã ngành: 7340201,Tên ngành: Tài chính – Ngân hàng,Tổ hợp môn: C01,NV1: 25.00
+40,Mã ngành: 7340201,Tên ngành: Tài chính – Ngân hàng,Tổ hợp môn: D01,NV1: 21.00
+41,Mã ngành: 7340301,Tên ngành: Kế toán,Tổ hợp môn: C01,NV1: 26.25
+42,Mã ngành: 7340301,Tên ngành: Kế toán,Tổ hợp môn: D01,NV1: 21.25
+43,Mã ngành: 7340406,Tên ngành: Quản trị văn phòng,Tổ hợp môn: C04,NV1: 26.50
+44,Mã ngành: 7340406,Tên ngành: Quản trị văn phòng,Tổ hợp môn: D01,NV1: 26.50
+45,Mã ngành: 7380101,Tên ngành: Luật,Tổ hợp môn: C03,NV1: 27.00
+46,Mã ngành: 7380101,Tên ngành: Luật,Tổ hợp môn: D01,NV1: 25.25
+47,Mã ngành: 7440301,Tên ngành: Khoa học môi trường,"Tổ hợp môn: A00,B00",NV1: 16.25
+48,Mã ngành: 7460112,Tên ngành: Toán ứng dụng,Tổ hợp môn: A01,NV1: 20.50
+49,Mã ngành: 7460112,Tên ngành: Toán ứng dụng,Tổ hợp môn: A00,NV1: 22.75
+50,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,Tổ hợp môn: A00,NV1: 25.50
+51,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,Tổ hợp môn: A01,NV1: 25.75
+52,Mã ngành: 7510301,"Tên ngành: Công nghệ kỹ thuật điện, điện tử",Tổ hợp môn: A00,NV1: 20.25
+53,Mã ngành: 7510301,"Tên ngành: Công nghệ kỹ thuật điện, điện tử",Tổ hợp môn: A01,NV1: 18.25
+54,Mã ngành: 7510302,"Tên ngành: Công nghệ kỹ thuật điện tử, truyền thông",Tổ hợp môn: A00,NV1: 19.25
+55,Mã ngành: 7510302,"Tên ngành: Công nghệ kỹ thuật điện tử, truyền thông",Tổ hợp môn: A01,NV1: 18.00
+56,Mã ngành: 7510406,Tên ngành: Công nghệ kỹ thuật môi trường,Tổ hợp môn: A00,NV1: 18.00
+57,Mã ngành: 7510406,Tên ngành: Công nghệ kĩ thuật môi trường,Tổ hợp môn: B00,NV1: 17.50
+58,Mã ngành: 7520201,"Tên ngành: Kỹ thuật điện, điện tử",Tổ hợp môn: A01,NV1: 18.00
+59,Mã ngành: 7520201,"Tên ngành: Kỹ thuật điện, điện tử",Tổ hợp môn: A00,NV1: 20.00
+60,Mã ngành: 7520207,"Tên ngành: Kỹ thuật điện tử, truyền thông",Tổ hợp môn: A01,NV1: 18.00
+61,Mã ngành: 7520207,"Tên ngành: Kỹ thuật điện tử, truyền thông",Tổ hợp môn: A00,NV1: 19.25
+62,,,,
+63,,,,

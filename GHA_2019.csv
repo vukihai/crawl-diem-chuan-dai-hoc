@@ -1,0 +1,43 @@
+,0,1,2,3
+0,Mã ngành: GHA-01,"Tên ngành: Ngành Quản trị kinh doanh (gồm 4 chuyên ngành: Quản trị doanh nghiệp xây dựng, Quản trị doanh nghiệp Bưu chính - Viễn thông, Quản trị kinh doanh giao thông vận tải, Quản trị Logistics)","Tổ hợp môn: A00, A01, D01, D07",NV1: 20.45
+1,Mã ngành: GHA-02,Tên ngành: Ngành Kế toán (chuyên ngành Kế toán tổng hợp),"Tổ hợp môn: A00, A01, D01, D07",NV1: 20.35
+2,Mã ngành: GHA-03,Tên ngành: Ngành Kinh tế (chuyên ngành Kinh tế Bưu chính - Viễn thông),"Tổ hợp môn: A00, A01, D01, D07",NV1: 18.95
+3,Mã ngành: GHA-04,"Tên ngành: Ngành Khai thác vận tải (gồm 5 chuyên ngành: Khai thác vận tải đường sắt đô thị, Khai thác vận tải đa phương thức,Vận tải - Thương mại quốc tế, Qui hoạch và quản lý GTVT đô thị, Logistics)","Tổ hợp môn: A00, A01, D01, D07",NV1: 18.10
+4,Mã ngành: GHA-05,"Tên ngành: Ngành Kinh tế vận tải (gồm 3 chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải đường sắt, Kinh tế vận tải và du lịch)","Tổ hợp môn: A00, A01, D01, D07",NV1: 15.65
+5,Mã ngành: GHA-06,Tên ngành: Ngành Toán ứng dụng (chuyên ngành Toán - Tin ứng dụng),"Tổ hợp môn: A00, A01, D07",NV1: 13.01
+6,Mã ngành: GHA-07,Tên ngành: Ngành Công nghệ thông tin,"Tổ hợp môn: A00, A01, D07",NV1: 20.10
+7,Mã ngành: GHA-08,Tên ngành: Ngành Công nghệ kỹ thuật giao thông (chuyên ngành Kỹ thuật an toàn giao thông),"Tổ hợp môn: A00, A01, D01, D07",NV1: 13.10
+8,Mã ngành: GHA-09,Tên ngành: Ngành Kỹ thuật môi trường (chuyên ngành Kỹ thuật môi trường giao thông),"Tổ hợp môn: A00, A01, D01, D07",NV1: 14.65
+9,Mã ngành: GHA-10,"Tên ngành: Ngành Kỹ thuật cơ khí (gồm 2 chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hóa thiết kế cơ khí)","Tổ hợp môn: A00, A01, D01, D07",NV1: 18.01
+10,Mã ngành: GHA-11,Tên ngành: Ngành Kỹ thuật Cơ điện tử (chuyên ngành Cơ điện tử),"Tổ hợp môn: A00, A01, D01, D07",NV1: 19.95
+11,Mã ngành: GHA-12,"Tên ngành: Ngành Kỹ thuật nhiệt (gồm 2 chuyên ngành: Kỹ thuật nhiệt lạnh, Điều hòa không khí và thông gió công trình xây dựng)","Tổ hợp môn: A00, A01, D01, D07",NV1: 16.55
+12,Mã ngành: GHA-13,Tên ngành: Ngành Kỹ thuật cơ khí động lực (Chuyên ngành Máy xây dựng),"Tổ hợp môn: A00, A01, D01, D07",NV1: 14.65
+13,Mã ngành: GHA-14,"Tên ngành: Ngành Kỹ thuật cơ khí động lực (Nhóm chuyên ngành: Cơ giới hóa xây dựng cầu đường, Cơ khí giao thông công chính, Kỹ thuật máy động lực, Đầu máy - toa xe, Tàu điện - metro)","Tổ hợp môn: A00, A01, D01, D07",NV1: 13.10
+14,Mã ngành: GHA-15,Tên ngành: Ngành Kỹ thuật ô tô (chuyên ngành Cơ khí ô tô),"Tổ hợp môn: A00, A01, D01, D07",NV1: 20.95
+15,Mã ngành: GHA-16,"Tên ngành: Ngành Kỹ thuật điện (gồm 2 chuyên ngành: Trang bị điện trong công nghiệp và giao thông, Hệ thống điện giao thông và công nghiệp)","Tổ hợp môn: A00, A01, D07",NV1: 15.10
+16,Mã ngành: GHA-17,"Tên ngành: Ngành Kỹ thuật điện tử - viễn thông (gồm 3 chuyên ngành: Kỹ thuật điện tử và tin học công nghiệp, Kỹ thuật thông tin và truyền thông, Kỹ thuật viễn thông)","Tổ hợp môn: A00, A01, D07",NV1: 18.45
+17,Mã ngành: GHA-18,"Tên ngành: Ngành Kỹ thuật điều khiển và tự động hoá (gồm 2 chuyên ngành: Kỹ thuật điều khiển và tự động hóa giao thông, Tự động hóa)","Tổ hợp môn: A00, A01, D07",NV1: 20.95
+18,Mã ngành: GHA-19,"Tên ngành: Ngành Kỹ thuật xây dựng (gồm 4 chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Kỹ thuật hạ tầng đô thị, Vật liệu và công nghệ xây dựng)","Tổ hợp môn: A00, A01, D01, D07",NV1: 14.10
+19,Mã ngành: GHA-20,Tên ngành: Ngành Kỹ thuật xây dựng công trình thủy,"Tổ hợp môn: A00, A01, D01, D07",NV1: 14.50
+20,Mã ngành: GHA-21,Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Cầu đường bộ),"Tổ hợp môn: A00, A01, D01, D07",NV1: 14.10
+21,Mã ngành: GHA-22,"Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Đường bộ, Kỹ thuật giao thông đường bộ)","Tổ hợp môn: A00, A01, D01, D07",NV1: 14.10
+22,Mã ngành: GHA-23,"Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Cầu hầm, Đường hầm và metro)","Tổ hợp môn: A00, A01, D01, D07",NV1: 24.56
+23,Mã ngành: GHA-24,"Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Đường sắt, Cầu-Đường sắt, Đường sắt đô thị)","Tổ hợp môn: A00, A01, D01, D07",NV1: 14.93
+24,Mã ngành: GHA-25,"Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Đường ô tô - Sân bay, Cầu - Đường ô tô - Sân bay)","Tổ hợp môn: A00, A01, D01, D07",NV1: 14.65
+25,Mã ngành: GHA-26,"Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Công trình giao thông đô thị, Công trình giao thông công chính )","Tổ hợp môn: A00, A01, D01, D07",NV1: 13.10
+26,Mã ngành: GHA-27,"Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Tự động hóa thiết kế cầu đường, Địa kỹ thuật công trình giao thông, Kỹ thuật GIS và trắc địa công trình)","Tổ hợp môn: A00, A01, D01, D07",NV1: 13.10
+27,Mã ngành: GHA-28,"Tên ngành: Ngành Kinh tế xây dựng (gồm 2 chuyên ngành: Kinh tế quản lý khai thác cầu đường, Kinh tế xây dựng công trình giao thông)","Tổ hợp môn: A00, A01, D01, D07",NV1: 15.25
+28,Mã ngành: GHA-29,Tên ngành: Ngành Quản lý xây dựng,"Tổ hợp môn: A00, A01, D01, D07",NV1: 14.10
+29,Mã ngành: GHA-30,Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Chương trình chất lượng cao Cầu - Đường bộ Việt – Pháp),"Tổ hợp môn: A00, A01, D01, D07",NV1: 14.55
+30,Mã ngành: GHA-31,Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Chương trình chất lượng cao Cầu - Đường bộ Việt – Anh),"Tổ hợp môn: A00, A01, D01, D07",NV1: 13.10
+31,Mã ngành: GHA-32,Tên ngành: Ngành Kỹ thuật xây dựng công trình giao thông (Chương trình chất lượng cao Công trình Giao thông đô thị Việt - Nhật),"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.45
+32,Mã ngành: GHA-33,Tên ngành: Ngành Kỹ thuật xây dựng (Chương trình tiên tiến Kỹ thuật xây dựng công trình giao thông),"Tổ hợp môn: A00, A01, D01, D07",NV1: 14.65
+33,Mã ngành: GHA-34,Tên ngành: Ngành Kỹ thuật xây dựng (Chương trình chất lượng cao Vật liệu và Công nghệ Xây dựng Việt – Pháp),"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.25
+34,Mã ngành: GHA-35,Tên ngành: Ngành Kinh tế xây dựng (Chương trình chất lượng cao Kinh tế xây dựng công trình Giao thông Việt - Anh),"Tổ hợp môn: A00, A01, D01, D07",NV1: 13.10
+35,Mã ngành: GHA-36,Tên ngành: Ngành Kế toán (Chương trình chất lượng cao Kế toán tổng hợp Việt - Anh),"Tổ hợp môn: A00, A01, D01, D07",NV1: 17.35
+36,,,,
+37,,,,
+38,,,,
+39,,,,
+40,,,,
+41,,,,

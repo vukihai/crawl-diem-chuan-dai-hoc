@@ -1,0 +1,145 @@
+,0,1,2,3
+0,Mã ngành: 7210203,Tên ngành: Thanh nhạc,Tổ hợp môn: N01,NV1: 18.50
+1,Mã ngành: 7210205,Tên ngành: Thanh nhạc,Tổ hợp môn:,NV1: 600.00
+2,Mã ngành: 7210205,Tên ngành: Thanh nhạc,Tổ hợp môn:,NV1: 6.00
+3,Mã ngành: 7210208,Tên ngành: Piano,Tổ hợp môn:,NV1: 600.00
+4,Mã ngành: 7210208,Tên ngành: Piano,Tổ hợp môn:,NV1: 6.00
+5,Mã ngành: 7210208,Tên ngành: Piano,Tổ hợp môn: N00,NV1: 22.00
+6,Mã ngành: 7210234,"Tên ngành: Diễn viên kịch, điện ảnh-truyền hình",Tổ hợp môn:,NV1: 6.00
+7,Mã ngành: 7210234,"Tên ngành: Diễn viên kịch, điện ảnh - truyền hình",Tổ hợp môn: N05,NV1: 19.50
+8,Mã ngành: 7210234,"Tên ngành: Diễn viên kịch, điện ảnh-truyền hình",Tổ hợp môn:,NV1: 600.00
+9,Mã ngành: 7210235,Tên ngành: Đạo diễn điện ảnh - Truyền hình,Tổ hợp môn:,NV1: 6.00
+10,Mã ngành: 7210235,Tên ngành: Đạo diễn điện ảnh - truyền hình,Tổ hợp môn: N07,NV1: 20.00
+11,Mã ngành: 7210235,Tên ngành: Đạo diễn điện ảnh - Truyền hình,Tổ hợp môn:,NV1: 600.00
+12,Mã ngành: 7210236,Tên ngành: Quay phim,Tổ hợp môn:,NV1: 6.00
+13,Mã ngành: 7210236,Tên ngành: Quay phim,Tổ hợp môn: N06,NV1: 19.00
+14,Mã ngành: 7210236,Tên ngành: Quay phim,Tổ hợp môn:,NV1: 600.00
+15,Mã ngành: 7210403,Tên ngành: Thiết kế đồ hoạ,"Tổ hợp môn: V00, H00, H07",NV1: 15.50
+16,Mã ngành: 7210403,Tên ngành: Thiết kế đồ họa,Tổ hợp môn:,NV1: 600.00
+17,Mã ngành: 7210403,Tên ngành: Thiết kế đồ họa,Tổ hợp môn:,NV1: 6.00
+18,Mã ngành: 7220101,Tên ngành: Tiếng Việt và Văn hóa Việt Nam,Tổ hợp môn:,NV1: 600.00
+19,Mã ngành: 7220101,Tên ngành: Tiếng Việt và Văn hóa Việt Nam,Tổ hợp môn:,NV1: 6.00
+20,Mã ngành: 7220101,Tên ngành: Tiếng Việt và Văn hoá Việt Nam,"Tổ hợp môn: D01, D14, D15",NV1: 16.00
+21,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,Tổ hợp môn:,NV1: 600.00
+22,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,Tổ hợp môn:,NV1: 6.00
+23,Mã ngành: 7220201,Tên ngành: Ngôn ngữ Anh,"Tổ hợp môn: D01, D14, D15",NV1: 15.00
+24,Mã ngành: 7220204,Tên ngành: Ngôn ngữ Trung Quốc,Tổ hợp môn:,NV1: 600.00
+25,Mã ngành: 7220204,Tên ngành: Ngôn ngữ Trung Quốc,Tổ hợp môn:,NV1: 6.00
+26,Mã ngành: 7220204,Tên ngành: Ngôn ngữ Trung Quốc,"Tổ hợp môn: D01, D04, D14, D15",NV1: 17.00
+27,Mã ngành: 7310401,Tên ngành: Tâm lý học,Tổ hợp môn:,NV1: 600.00
+28,Mã ngành: 7310401,Tên ngành: Tâm lý học,Tổ hợp môn:,NV1: 6.00
+29,Mã ngành: 7310401,Tên ngành: Tâm lý học,"Tổ hợp môn: B00, C00, D01, D14",NV1: 15.00
+30,Mã ngành: 7310608,Tên ngành: Đông Phương Học,Tổ hợp môn:,NV1: 600.00
+31,Mã ngành: 7310608,Tên ngành: Đông Phương Học,Tổ hợp môn:,NV1: 6.00
+32,Mã ngành: 7310608,Tên ngành: Đông phương học,"Tổ hợp môn: D01, D04, D14, D15",NV1: 15.00
+33,Mã ngành: 7310630,Tên ngành: Việt Nam học,Tổ hợp môn:,NV1: 6.00
+34,Mã ngành: 7310630,Tên ngành: Việt Nam học,"Tổ hợp môn: C00, D01, D14, D15",NV1: 15.00
+35,Mã ngành: 7310630,Tên ngành: Việt Nam học,Tổ hợp môn:,NV1: 600.00
+36,Mã ngành: 7320104,Tên ngành: Truyền thông đa phương tiện,Tổ hợp môn:,NV1: 6.00
+37,Mã ngành: 7320104,Tên ngành: Truyền thông đa phương tiện,"Tổ hợp môn: C00, D01, D14, D15",NV1: 15.00
+38,Mã ngành: 7320104,Tên ngành: Truyền thông đa phương tiện,Tổ hợp môn:,NV1: 600.00
+39,Mã ngành: 7320108,Tên ngành: Quan hệ công chúng,Tổ hợp môn:,NV1: 600.00
+40,Mã ngành: 7320108,Tên ngành: Quan hệ công chúng,Tổ hợp môn:,NV1: 6.00
+41,Mã ngành: 7320108,Tên ngành: Quan hệ công chúng,"Tổ hợp môn: A01, C00, D01, D14",NV1: 15.00
+42,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,Tổ hợp môn:,NV1: 6.00
+43,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,"Tổ hợp môn: A00, A01, D01, D07",NV1: 16.00
+44,Mã ngành: 7340101,Tên ngành: Quản trị kinh doanh,Tổ hợp môn:,NV1: 600.00
+45,Mã ngành: 7340115,Tên ngành: Marketing,Tổ hợp môn:,NV1: 6.00
+46,Mã ngành: 7340115,Tên ngành: Marketing,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+47,Mã ngành: 7340115,Tên ngành: Marketing,Tổ hợp môn:,NV1: 600.00
+48,Mã ngành: 7340122,Tên ngành: Thương mại điện tử,Tổ hợp môn:,NV1: 600.00
+49,Mã ngành: 7340122,Tên ngành: Thương mại điện tử,Tổ hợp môn:,NV1: 6.00
+50,Mã ngành: 7340122,Tên ngành: Thương mại điện tử,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.50
+51,Mã ngành: 7340201,Tên ngành: Tài chính – ngân hàng,Tổ hợp môn:,NV1: 600.00
+52,Mã ngành: 7340201,Tên ngành: Tài chính – ngân hàng,Tổ hợp môn:,NV1: 6.00
+53,Mã ngành: 7340201,Tên ngành: Tài chính - Ngân hàng,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+54,Mã ngành: 7340301,Tên ngành: Kế toán,Tổ hợp môn:,NV1: 600.00
+55,Mã ngành: 7340301,Tên ngành: Kế toán,Tổ hợp môn:,NV1: 6.00
+56,Mã ngành: 7340301,Tên ngành: Kế toán,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+57,Mã ngành: 7340404,Tên ngành: Quản trị Nhân lực,Tổ hợp môn:,NV1: 600.00
+58,Mã ngành: 7340404,Tên ngành: Quản trị Nhân lực,Tổ hợp môn:,NV1: 6.00
+59,Mã ngành: 7340404,Tên ngành: Quản trị Nhân lực,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+60,Mã ngành: 7380107,Tên ngành: Luật Kinh tế,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+61,Mã ngành: 7380107,Tên ngành: Luật Kinh tế,Tổ hợp môn:,NV1: 600.00
+62,Mã ngành: 7380107,Tên ngành: Luật Kinh tế,Tổ hợp môn:,NV1: 6.00
+63,Mã ngành: 7420201,Tên ngành: Công nghệ sinh học,"Tổ hợp môn: A00, B00, D07, D08",NV1: 15.00
+64,Mã ngành: 7420201,Tên ngành: Công nghệ sinh học,Tổ hợp môn:,NV1: 600.00
+65,Mã ngành: 7420201,Tên ngành: Công nghệ sinh học,Tổ hợp môn:,NV1: 6.00
+66,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,Tổ hợp môn:,NV1: 600.00
+67,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,Tổ hợp môn:,NV1: 6.00
+68,Mã ngành: 7480201,Tên ngành: Công nghệ thông tin,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+69,Mã ngành: 7510203,Tên ngành: Công nghệ kỹ thuật cơ điện tử,Tổ hợp môn:,NV1: 600.00
+70,Mã ngành: 7510203,Tên ngành: Công nghệ kỹ thuật cơ điện tử,Tổ hợp môn:,NV1: 6.00
+71,Mã ngành: 7510203,Tên ngành: Công nghệ kỹ thuật cơ điện tử,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+72,Mã ngành: 7510205,Tên ngành: Công nghệ kỹ thuật Ô tô,Tổ hợp môn:,NV1: 600.00
+73,Mã ngành: 7510205,Tên ngành: Công nghệ kỹ thuật Ô tô,Tổ hợp môn:,NV1: 6.00
+74,Mã ngành: 7510205,Tên ngành: Công nghệ kỹ thuật ô tô,"Tổ hợp môn: A00, A01, D01, D07",NV1: 17.00
+75,Mã ngành: 7510301,"Tên ngành: Kỹ thuật điện, điện tử",Tổ hợp môn:,NV1: 600.00
+76,Mã ngành: 7510301,"Tên ngành: Kỹ thuật điện, điện tử",Tổ hợp môn:,NV1: 6.00
+77,Mã ngành: 7510301,"Tên ngành: Kỹ thuật điện, điển tử","Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+78,Mã ngành: 7510401,Tên ngành: Công nghệ kỹ thuật Hóa học,Tổ hợp môn:,NV1: 600.00
+79,Mã ngành: 7510401,Tên ngành: Công nghệ kỹ thuật Hóa học,Tổ hợp môn:,NV1: 6.00
+80,Mã ngành: 7510401,Tên ngành: Công nghệ kỹ thuật hoá học,"Tổ hợp môn: A00, A01, B00, D07",NV1: 15.00
+81,Mã ngành: 7510605,Tên ngành: Logistic và quản lý chuỗi cung ứng,Tổ hợp môn:,NV1: 600.00
+82,Mã ngành: 7510605,Tên ngành: Logistic và quản lý chuỗi cung ứng,Tổ hợp môn:,NV1: 6.00
+83,Mã ngành: 7510605,Tên ngành: Logistic và quản lý chuỗi cung ứng,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+84,Mã ngành: 7520118,Tên ngành: Kỹ thuật hệ thống Công nghiệp,Tổ hợp môn:,NV1: 6.00
+85,Mã ngành: 7520118,Tên ngành: Kỹ thuật hệ thống công nghiệp,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+86,Mã ngành: 7520118,Tên ngành: Kỹ thuật hệ thống Công nghiệp,Tổ hợp môn:,NV1: 600.00
+87,Mã ngành: 7520212,Tên ngành: Kỹ thuật y sinh,"Tổ hợp môn: A00, A01, A02, B00",NV1: 15.00
+88,Mã ngành: 7520212,Tên ngành: Kỹ thuật Y sinh,Tổ hợp môn:,NV1: 600.00
+89,Mã ngành: 7520212,Tên ngành: Kỹ thuật Y sinh,Tổ hợp môn:,NV1: 6.00
+90,Mã ngành: 7520403,Tên ngành: Vật lý y khoa,"Tổ hợp môn: A00, A01, A02, B00",NV1: 15.50
+91,Mã ngành: 7520403,Tên ngành: Vật lý y khoa,Tổ hợp môn:,NV1: 600.00
+92,Mã ngành: 7520403,Tên ngành: Vật lý y khoa,Tổ hợp môn:,NV1: 6.00
+93,Mã ngành: 7540101,Tên ngành: Công nghệ thực phẩm,Tổ hợp môn:,NV1: 600.00
+94,Mã ngành: 7540101,Tên ngành: Công nghệ thực phẩm,Tổ hợp môn:,NV1: 6.00
+95,Mã ngành: 7540101,Tên ngành: Công nghệ thực phẩm,"Tổ hợp môn: A00, A01, B00, D07",NV1: 15.00
+96,Mã ngành: 7580101,Tên ngành: Kiến trúc,"Tổ hợp môn: V00, H00, H07",NV1: 15.00
+97,Mã ngành: 7580101,Tên ngành: Kiến trúc,Tổ hợp môn:,NV1: 600.00
+98,Mã ngành: 7580101,Tên ngành: Kiến trúc,Tổ hợp môn:,NV1: 6.00
+99,Mã ngành: 7580108,Tên ngành: Thiết kế nội thất,"Tổ hợp môn: V00, H00, H07",NV1: 17.50
+100,Mã ngành: 7580108,Tên ngành: Thiết kế nội thất,Tổ hợp môn:,NV1: 600.00
+101,Mã ngành: 7580108,Tên ngành: Thiết kế nội thất,Tổ hợp môn:,NV1: 6.00
+102,Mã ngành: 7580201,Tên ngành: Kỹ thuật xây dựng,Tổ hợp môn:,NV1: 600.00
+103,Mã ngành: 7580201,Tên ngành: Kỹ thuật xây dựng,Tổ hợp môn:,NV1: 6.00
+104,Mã ngành: 7580201,Tên ngành: Kỹ thuật xây dựng,"Tổ hợp môn: A00, A01, D01, D07",NV1: 15.00
+105,Mã ngành: 7720101,Tên ngành: Y khoa,Tổ hợp môn:,NV1: 850.00
+106,Mã ngành: 7720101,Tên ngành: Y khoa,Tổ hợp môn:,NV1: 8.50
+107,Mã ngành: 7720101,Tên ngành: Y Khoa,Tổ hợp môn: B00,NV1: 23.00
+108,Mã ngành: 7720110,Tên ngành: Y học dự phòng,Tổ hợp môn:,NV1: 600.00
+109,Mã ngành: 7720110,Tên ngành: Y học dự phòng,Tổ hợp môn:,NV1: 6.50
+110,Mã ngành: 7720110,Tên ngành: Y học dự phòng,Tổ hợp môn: B00,NV1: 18.00
+111,Mã ngành: 7720201,Tên ngành: Dược học,Tổ hợp môn:,NV1: 8.00
+112,Mã ngành: 7720201,Tên ngành: Dược học,"Tổ hợp môn: A00, A01, B00, D07",NV1: 20.00
+113,Mã ngành: 7720201,Tên ngành: Dược học,Tổ hợp môn:,NV1: 600.00
+114,Mã ngành: 7720301,Tên ngành: Điều dưỡng,Tổ hợp môn:,NV1: 6.50
+115,Mã ngành: 7720301,Tên ngành: Điều dưỡng,"Tổ hợp môn: A00, A01, B00, D07",NV1: 18.00
+116,Mã ngành: 7720301,Tên ngành: Điều dưỡng,Tổ hợp môn:,NV1: 600.00
+117,Mã ngành: 7720601,Tên ngành: Kỹ thuật xét nghiệm y học,Tổ hợp môn:,NV1: 6.50
+118,Mã ngành: 7720601,Tên ngành: Kỹ thuật xét nghiệm y học,"Tổ hợp môn: A00, B00, D07, D08",NV1: 18.00
+119,Mã ngành: 7720601,Tên ngành: Kỹ thuật xét nghiệm y học,Tổ hợp môn:,NV1: 600.00
+120,Mã ngành: 7810103,Tên ngành: Du lịch,Tổ hợp môn:,NV1: 6.00
+121,Mã ngành: 7810103,Tên ngành: Du lịch,"Tổ hợp môn: C00, D01, D14, D15",NV1: 16.00
+122,Mã ngành: 7810103,Tên ngành: Du lịch,Tổ hợp môn:,NV1: 600.00
+123,Mã ngành: 7810201,Tên ngành: Quản trị khách sạn,Tổ hợp môn:,NV1: 600.00
+124,Mã ngành: 7810201,Tên ngành: Quản trị khách sạn,Tổ hợp môn:,NV1: 6.00
+125,Mã ngành: 7810201,Tên ngành: Quản trị khách sản,"Tổ hợp môn: A00, A01, C00, D01",NV1: 17.00
+126,Mã ngành: 7810202,Tên ngành: Quản trị nhà hàng và dịch vụ ăn uống,Tổ hợp môn:,NV1: 600.00
+127,Mã ngành: 7810202,Tên ngành: Quản trị nhà hàng và dịch vụ ăn uống,Tổ hợp môn:,NV1: 6.00
+128,Mã ngành: 7810202,Tên ngành: Quản trị nhà hàng và dịch vụ ăn uống,"Tổ hợp môn: A00, A01, C00, D01",NV1: 17.00
+129,Mã ngành: 7850101,Tên ngành: Quản lý tài nguyên và môi trường,Tổ hợp môn:,NV1: 600.00
+130,Mã ngành: 7850101,Tên ngành: Quản lý tài nguyên và môi trường,Tổ hợp môn:,NV1: 6.00
+131,Mã ngành: 7850101,Tên ngành: Quản lý tài nguyên và môi trường,"Tổ hợp môn: A00, A01, B00, D07",NV1: 15.00
+132,,,,
+133,,,,
+134,,,,
+135,,,,
+136,,,,
+137,,,,
+138,,,,
+139,,,,
+140,,,,
+141,,,,
+142,,,,
+143,,,,
