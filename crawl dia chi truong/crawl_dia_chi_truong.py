@@ -21,16 +21,19 @@ if __name__ == '__main__':
     myMongoClient = pm.MongoClient("mongodb://localhost:27017") # kết nối mongo
     myMongoDb = myMongoClient["unisec-db"]
     uniCol = myMongoDb["universities"]
-
+    listUni = uniCol.find()
+    
     error_log = [] # ghi lại những trường không craw được để bổ sung bằng tay
+    success_log = [] # ghi lại những trường đã crawl được
     
     crawler = Crawler()
-    for doc in uniCol.find(): # duyệt qua tất cả các trường
+    for doc in listUni: # duyệt qua tất cả các trường
         uniName = doc["name"] 
-        address = crawler.crawl(uniName) # chạy crawl 
-        if address[0] : # crawler trả về thành công
+        address = crawler.crawl(uniName)
+        if address[0] : # crawler trả về true
             print("địa chỉ trường " + uniName + " là " + address[1])
-            uniCol.update_one({"name": uniName}, {"$set": {"address": address}}) # lưu vào db
+            uniCol.update_one({"name": uniName}, {"$set": {"address": address[1]}}) # lưu vào db
+            success_log.append(uniName + ":" + address[1])
         else :    
             error_log.append(uniName) # crawl thất bại thì lưu vào log
             print("không crawl được địa chỉ trường " + uniName)
