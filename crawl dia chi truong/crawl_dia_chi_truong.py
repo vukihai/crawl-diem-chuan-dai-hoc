@@ -21,7 +21,7 @@ if __name__ == '__main__':
     myMongoClient = pm.MongoClient("mongodb://localhost:27017") # kết nối mongo
     myMongoDb = myMongoClient["unisec-db"]
     uniCol = myMongoDb["universities"]
-    listUni = uniCol.find()
+    listUni = uniCol.find({}, no_cursor_timeout=True)
     
     error_log = [] # ghi lại những trường không craw được để bổ sung bằng tay
     success_log = [] # ghi lại những trường đã crawl được
