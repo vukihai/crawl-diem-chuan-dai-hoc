@@ -2,7 +2,7 @@ from selenium import webdriver
 import pymongo as pm
 import pandas as pd
 import time
-
+abcs
 class Crawler:
     def __init__(self):
         self.driver = webdriver.Chrome() 
